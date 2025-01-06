@@ -13,10 +13,25 @@ I’m a passionate tech enthusiast working at the intersection of Artificial Int
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8))
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/C%2FC++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/HTML%2FCSS-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tailwind%20CSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Google%20Cloud-informational?style=flat&logo=googlecloud&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Visual%20Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/IntelliJ%20IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Keras-informational?style=flat&logo=keras&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/pandas-informational?style=flat&logo=pandas&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Matplotlib-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Seaborn-informational?style=flat&logo=python&logoColor=white&color=6aa6f8
+)
 
 
 <!-- BLOG-POST-LIST:START 
