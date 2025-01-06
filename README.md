@@ -1,7 +1,7 @@
 <img src="header_en.svg"></img>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Twitter: shreevatsdhyani](https://img.shields.io/twitter/follow/shreevatsdhyani?style=social)](https://x.com/ShreevatsD)
+[![Twitter: ShreevatsD](https://img.shields.io/twitter/follow/shreevatsdhyani?style=social)](https://x.com/ShreevatsD)
 ![GitHub followers](https://img.shields.io/github/followers/shreevatsdhyani?label=Follow&style=social)
 [![Linkedin: shreevatsdhyani](https://img.shields.io/badge/-Shreevats_Dhyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreevats-dhyani/)](www.linkedin.com/in/shreevatsdhyani)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shreevats37@gmail.com)](mailto:shreevats37@gmail.com)
