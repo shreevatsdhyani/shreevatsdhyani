@@ -32,11 +32,11 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #4447e3;  
+  fill: #2A3D80;  
 }
 
 .wave:hover {
-  fill: #5457ff;
+  fill: #4A5C9A;
 }
 
 .drop:hover {
@@ -44,10 +44,10 @@ rect.headerRect:hover {
 }
 
 .drop {
-  fill: #4447e3;
+  fill: #2A3D80;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
-  stroke: #4447e3;
+  stroke: #2A3D80;
   stroke-width: 0.5;
   transform: translateY(25px) ;
   transform-box: fill-box;
@@ -127,8 +127,6 @@ g.typingUnderline rect {
     underline_move 4s steps(24, end) forwards;
 }
 </style>
-
-
 
  <defs> 
     <filter id="goo">
