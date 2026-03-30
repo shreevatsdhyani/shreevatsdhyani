@@ -34,8 +34,7 @@ I'm passionate about building scalable, production-ready AI systems that solve r
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=6aa6f8)
-
+![](https://img.shields.io/badge/Editor-Antigravity-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=shreevatsdhyani&style=plastic&label=Views"><img>
