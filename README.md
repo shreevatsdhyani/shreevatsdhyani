@@ -54,13 +54,6 @@ I'm passionate about building scalable, production-ready AI systems that solve r
 
 Building AI systems across **NLP, GenAI, and anomaly detection**. Check out my repositories for code and implementations.
 
----
-
-## 📊 GitHub Stats
-
-![Shreevat's github stats](https://github-readme-stats.vercel.app/api?username=shreevatsdhyani&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreevatsdhyani&theme=dark&hide_border=true&layout=compact)
-
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=shreevatsdhyani&style=plastic&label=Views"><img>
 </p>
