@@ -56,9 +56,10 @@ Building AI systems across **NLP, GenAI, and anomaly detection**. Check out my r
 
 ---
 
-## 📊 Coding Activity
+## 📊 GitHub Stats
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shreevatsdhyani)](https://wakatime.com)
+![Shreevat's github stats](https://github-readme-stats.vercel.app/api?username=shreevatsdhyani&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreevatsdhyani&theme=dark&hide_border=true&layout=compact)
 
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=shreevatsdhyani&style=plastic&label=Views"><img>
