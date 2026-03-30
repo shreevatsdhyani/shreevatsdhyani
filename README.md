@@ -14,15 +14,6 @@ I'm passionate about building scalable, production-ready AI systems that solve r
 
 ---
 
-## 🎯 What I Do
-
-- **🤖 Generative AI & LLMs:** End-to-end GenAI pipelines, fine-tuning, knowledge grounding, and hallucination mitigation
-- **🌐 Multilingual NLP:** Building tokenizers and language models for Indic scripts (phonetic-aware architectures)
-- **📊 ML Systems Design:** Production-grade model deployment, cloud infrastructure, and MLOps best practices
-- **🔍 AI Research:** Anomaly detection, autoencoders, and domain-specific model architectures
-
----
-
 ## 🛠️ Tech Stack
 
 **Core AI/ML:**
@@ -49,11 +40,6 @@ I'm passionate about building scalable, production-ready AI systems that solve r
 ![](https://img.shields.io/badge/C%2FC++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
 
 ---
-
-## 📚 Featured Work
-
-Building AI systems across **NLP, GenAI, and anomaly detection**. Check out my repositories for code and implementations.
-
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=shreevatsdhyani&style=plastic&label=Views"><img>
 </p>
