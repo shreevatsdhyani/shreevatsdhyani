@@ -62,16 +62,6 @@ Building AI systems across **NLP, GenAI, and anomaly detection**. Check out my r
 | --- | --- |
 | ![Shreevat's github stats](https://github-readme-stats.vercel.app/api?username=shreevatsdhyani&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true) | ![Shreevat's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreevatsdhyani&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 
----
-
-## 🎓 Education
-
-- **B.Tech in Artificial Intelligence & Machine Learning** — Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi
-  - CGPA: 8.5/10
-  - Research Focus: NLP, Autoencoders, Healthcare AI
-
----
-
 ## 🚀 Vision
 
 I'm deeply committed to advancing AI through rigorous learning and thoughtful system design. My goal is to evolve into an **AI Architect** who builds trustworthy, scalable systems with lasting, socially responsible impact.
