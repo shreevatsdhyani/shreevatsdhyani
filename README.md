@@ -97,10 +97,13 @@ I'm an **AI Engineer** who builds agentic AI systems that go beyond the notebook
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreevatsdhyani&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreevatsdhyani&theme=tokyonight&hide_border=true" width="70%"/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=shreevatsdhyani&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" />
+<br>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreevatsdhyani&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=90&section=footer" width="100%"/>
