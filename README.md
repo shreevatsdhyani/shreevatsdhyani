@@ -99,35 +99,6 @@ I'm an **AI Engineer** who builds agentic AI systems that go beyond the notebook
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreevatsdhyani&theme=tokyonight&hide_border=true" width="70%"/>
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreevatsdhyani&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-</div>
-
-> Swapped the stats/top-language cards for a contribution activity graph — it's built on a different, more stable renderer, so it won't leave you with broken-image icons the way the old cards did. If you'd still like the star/commit/language cards, the durable fix is self-hosting `github-readme-stats` on your own free Vercel account (~5 min) — say the word and I'll walk you through it.
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Project Name</h3>
-<p align="center">One-line description of what it does and the problem it solves.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Tech-Stack-2563EB?style=flat-square"/>
-</p>
-<p align="center"><a href="#">Repo →</a></p>
-</td>
-<td width="50%">
-<h3 align="center">Project Name</h3>
-<p align="center">One-line description of what it does and the problem it solves.</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Tech-Stack-2563EB?style=flat-square"/>
-</p>
-<p align="center"><a href="#">Repo →</a></p>
-</td>
-</tr>
-</table>
-
-> Placeholder cards — send me your top 2–4 repo names/links and I'll fill these in with real titles, descriptions, and tech badges.
 
 ## 📫 Let's Connect
 
