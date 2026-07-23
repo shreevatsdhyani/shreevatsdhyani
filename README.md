@@ -4,7 +4,7 @@
 
 <a href="https://x.com/ShreevatsD"><img src="https://img.shields.io/twitter/follow/shreevatsdhyani?style=for-the-badge&logo=x&logoColor=white&color=000000&label=Follow" /></a>
 <a href="https://github.com/shreevatsdhyani"><img src="https://img.shields.io/github/followers/shreevatsdhyani?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717" /></a>
-<a href="https://www.linkedin.com/in/shreevats-dhyani/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shreevatsdhyani/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:shreevats37@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Building+production-grade+agentic+AI+systems;LLMs+%7C+RAG+%7C+Multi-Agent+Orchestration;Turning+research+into+deployed+products" alt="Typing SVG" />
@@ -98,14 +98,6 @@ I'm an **AI Engineer** who builds agentic AI systems that go beyond the notebook
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreevatsdhyani&theme=tokyonight&hide_border=true" width="70%"/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shreevatsdhyani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/ShreevatsD"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:shreevats37@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=shreevatsdhyani&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS" />
 
