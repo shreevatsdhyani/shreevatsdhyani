@@ -18,81 +18,116 @@ I'm an **AI Engineer** who builds agentic AI systems that go beyond the notebook
 - 🔭 Currently building multi-agent orchestration pipelines and retrieval-augmented systems
 - 🧠 Deep focus on LLM fine-tuning (LoRA/QLoRA), prompt engineering, and LLM evaluation
 - 🛡️ Care a lot about responsible AI — guardrails, evals, and reliability, not just demos
-- 🌱 Exploring the newer agent frameworks (LangGraph, CrewAI, AutoGen, Smolagents)
-- 💬 Ask me about RAG pipelines, agent architectures, or taking LLM apps from prototype to prod
+- 🌱 Exploring newer agent frameworks — LangGraph, CrewAI, AutoGen, Smolagents
+- 💬 Ask me about RAG pipelines, agent architectures, or shipping LLM apps to production
 
 ## 🧰 Tech Stack
 
-<div align="center">
-
-**Languages**
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="48"/>
-
-**Frameworks & Web**
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,tailwind&theme=dark" />
-
-**Agentic AI, LLMs & RAG**
+<table>
+<tr>
+<td align="right"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" height="42"/>
+<img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=postgresql&logoColor=white" height="42"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Frameworks & Web</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,tailwind&theme=dark" height="42"/></td>
+</tr>
+<tr>
+<td align="right" valign="top"><b>Agentic AI, LLMs & RAG</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-2563EB?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/LlamaIndex-2563EB?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/CrewAI-2563EB?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/AutoGen-2563EB?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Smolagents-2563EB?style=flat-square&logoColor=white" height="26"/>
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Smolagents-FFD21E?style=flat-square&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/RAG-1E3A8A?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/FAISS-1E3A8A?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Qdrant-1E3A8A?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/LoRA%2FQLoRA_Finetuning-1E3A8A?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-1E3A8A?style=flat-square&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Responsible_AI-1E3A8A?style=flat-square&logoColor=white" height="26"/>
+</td>
+</tr>
+<tr>
+<td align="right" valign="top"><b>ML / DL</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" height="42"/>
+<img src="https://img.shields.io/badge/🤗_Transformers-2563EB?style=flat-square&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Keras-2563EB?style=flat-square&logo=keras&logoColor=white" height="42"/>
 <br/>
-<img src="https://img.shields.io/badge/RAG-6D28D9?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LoRA%2FQLoRA_Finetuning-2563EB?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Responsible_AI-2563EB?style=flat-square&logoColor=white" height="28"/>
-
-**ML / DL**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<img src="https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logoColor=black" height="48"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="48"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" height="30"/>
+<img src="https://img.shields.io/badge/Matplotlib-1E3A8A?style=flat-square&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Plotly-1E3A8A?style=flat-square&logo=plotly&logoColor=white" height="30"/>
+<img src="https://img.shields.io/badge/Gradio-1E3A8A?style=flat-square&logoColor=white" height="30"/>
+</td>
+</tr>
+<tr>
+<td align="right" valign="top"><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,vercel&theme=dark" height="42"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square&logo=githubactions&logoColor=white" height="42"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logoColor=white" height="48"/>
-
-**Cloud & DevOps**
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,vercel&theme=dark" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="48"/>
-<br/>
-<img src="https://img.shields.io/badge/AWS-S3_·_EC2_·_Bedrock_·_Lambda-232F3E?style=flat-square&logo=amazonaws&logoColor=white" height="28"/>
-
-**Databases**
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" />
-<img src="https://img.shields.io/badge/Qdrant_Vector_DB-DC244C?style=flat-square&logoColor=white" height="48"/>
-
-**Tools**
-<img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white" height="48"/>
-<img src="https://img.shields.io/badge/Windsurf-00B4AB?style=flat-square&logoColor=white" height="48"/>
-
-</div>
+<img src="https://img.shields.io/badge/AWS-S3_·_EC2_·_Bedrock_·_Lambda-1E3A8A?style=flat-square&logo=amazonaws&logoColor=white" height="26"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" height="42"/>
+<img src="https://img.shields.io/badge/Qdrant_Vector_DB-2563EB?style=flat-square&logoColor=white" height="42"/>
+</td>
+</tr>
+<tr>
+<td align="right"><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,postman,vscode&theme=dark" height="42"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-2563EB?style=flat-square&logo=githubcopilot&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Cursor-2563EB?style=flat-square&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Claude_Code-2563EB?style=flat-square&logoColor=white" height="42"/>
+<img src="https://img.shields.io/badge/Windsurf-2563EB?style=flat-square&logoColor=white" height="42"/>
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shreevatsdhyani&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreevatsdhyani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="38%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreevatsdhyani&theme=tokyonight&hide_border=true" width="60%"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreevatsdhyani&theme=tokyonight&hide_border=true" width="70%"/>
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreevatsdhyani&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </div>
 
-## 🏆 Trophies
+> Swapped the stats/top-language cards for a contribution activity graph — it's built on a different, more stable renderer, so it won't leave you with broken-image icons the way the old cards did. If you'd still like the star/commit/language cards, the durable fix is self-hosting `github-readme-stats` on your own free Vercel account (~5 min) — say the word and I'll walk you through it.
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shreevatsdhyani&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Project Name</h3>
+<p align="center">One-line description of what it does and the problem it solves.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Tech-Stack-2563EB?style=flat-square"/>
+</p>
+<p align="center"><a href="#">Repo →</a></p>
+</td>
+<td width="50%">
+<h3 align="center">Project Name</h3>
+<p align="center">One-line description of what it does and the problem it solves.</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Tech-Stack-2563EB?style=flat-square"/>
+</p>
+<p align="center"><a href="#">Repo →</a></p>
+</td>
+</tr>
+</table>
+
+> Placeholder cards — send me your top 2–4 repo names/links and I'll fill these in with real titles, descriptions, and tech badges.
 
 ## 📫 Let's Connect
 
