@@ -94,11 +94,6 @@ I'm an **AI Engineer** who builds agentic AI systems that go beyond the notebook
 </tr>
 </table>
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreevatsdhyani&theme=tokyonight&hide_border=true" width="70%"/>
-</div>
-
 <br>
 
 <div align="center">
